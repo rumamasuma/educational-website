@@ -1,8 +1,11 @@
 # Dream University of Science & Technology
-## My project purpose  
--university website
--information about university
--online apply for admission
+## my wesite link https://app.netlify.com/sites/happy-albattani-ca0421/overview
+## My project purpose  are
+- university website
+
+- information about university
+
+- online apply for admission
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
