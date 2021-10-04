@@ -1,0 +1,14 @@
+.services h3 {
+    color: mediumvioletred;
+}
+
+
+.services-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+.service-heading{
+    font-size: 40px;
+    color: seagreen;
+}

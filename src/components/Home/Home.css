@@ -1,0 +1,8 @@
+.service-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.service-heading{
+    font-size: 40px;
+    color: seagreen;
+}

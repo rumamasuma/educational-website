@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Dream University of Science & Technology
+## My project purpose  
+-university website
+-information about university
+-online apply for admission
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

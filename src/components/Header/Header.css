@@ -1,0 +1,28 @@
+.header{
+    background-image: url('../../images/university.jpg');
+    background-repeat: no-repeat;
+    height:500px;
+    width: 100%;
+    background-blend-mode: overlay; 
+    background-size: cover;
+    background-position: center;  
+}
+body{
+    overflow-x: hidden;
+}
+.nav-bar {
+    text-decoration: none;
+}
+.nav-items {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 22px;
+    font-weight: 500;
+    color:navy;
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .nav-items:hover {
+    color :deeppink;
+  }

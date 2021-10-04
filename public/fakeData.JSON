@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Industry-focused Curriculum",
+    "img": "https://i.ibb.co/2FjbNzW/practical-class.jpg",
+    "description": "DUST is rated the #1 industry-focused university in Bangladesh.( BD Technology Survey 2020)."
+  },
+  {
+    "id": 2,
+    "name": "Technology-leading Campus",
+    "img": "https://i.ibb.co/zVfykXK/classroom.jpg",
+    "description": "Learn using next generation tools and technology that are shaping the future. From our Science Super Lab, the 3D Data Arena, a Menufacturing Protospace and more."
+  },
+  {
+    "id": 3,
+    "name": "Best Library ",
+    "img": "https://i.ibb.co/44Z3kFB/liabrary.jpg",
+    "description": "DUST library provides collection of materials, books or media that are easily accessible for use and not just for display purposes."
+  },
+  {
+    "id": 4,
+    "name": "Student Health Service ",
+    "img": "https://i.ibb.co/5FcdN51/student-health-services.jpg",
+    "description": "We care deeply about the health and well-being of every student.   We’ve established a comprehensive health care program at Student Health Service (SHS)."
+  }
+]
