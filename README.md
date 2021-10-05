@@ -1,9 +1,9 @@
 # Dream University of Science & Technology
-## my wesite link https://happy-albattani-ca0421.netlify.app/
+## my wesite link https://educational-react-route.netlify.app/
 ## My project purpose  are
 - university website
 
-- information about university
+- all information about university
 
 - online apply for admission
 
