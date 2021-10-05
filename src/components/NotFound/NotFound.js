@@ -1,11 +1,24 @@
 import React from 'react';
+import { useHistory } from "react-router-dom";
+import './NotFound.css';
 
 const NotFound = () => {
+
+    let history = useHistory();
+    const handleClick =() =>{
+        history.push('/home');
+    }
+
     return (
-        <div>
-            <h1>404</h1>
-            <h2>pagae not found !!!!</h2>
-        </div>
+        <div >
+       <div className = "not-found">
+
+       </div>
+       <div >
+     <button className="btn-primary rounded m-3 p-3 "  onClick= {handleClick}>Go Back to Home</button>
+       </div>
+      </div>
+        
     );
 };
 

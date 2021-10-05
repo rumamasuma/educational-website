@@ -12,10 +12,10 @@ const AboutUs = () => {
 
              {/* single-card */}
   <div className="about-card p-4">
-  <Card style={{ width: '18rem' }}>
-  <Card.Img variant="top" src="https://i.ibb.co/rkL0mc2/mr-kayes.jpg/100px180" />
-  <Card.Body>
-    <Card.Title>Mr Kayes</Card.Title>
+     <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://i.ibb.co/rkL0mc2/mr-kayes.jpg/100px180" />
+     <Card.Body>
+     <Card.Title>Mr Kayes</Card.Title>
     <Card.Text>
     BCom, MCom (UNSW), PhD (Calif), FASSA, FAICD <br /> Non-Executive Director, <br/> Chair of the Board 
     </Card.Text>

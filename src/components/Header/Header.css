@@ -1,7 +1,7 @@
 .header{
     background-image: url('../../images/university.jpg');
     background-repeat: no-repeat;
-    height:500px;
+    height:300px;
     width: 100%;
     background-blend-mode: overlay; 
     background-size: cover;
@@ -10,19 +10,28 @@
 body{
     overflow-x: hidden;
 }
+.bg-clr{
+      background-color: rgba(135, 206, 250, 0.308);
+      width: 100%;
+      
+}
 .nav-bar {
     text-decoration: none;
 }
-.nav-items {
+.nav-item {
     list-style: none;
-    margin-right: 30px;
     font-size: 22px;
-    font-weight: 500;
-    color:navy;
+    font-weight: 600;
+    color:pink;
     cursor: pointer;
     padding: 5px;
+    margin-left: 50px;
     text-decoration: none;
+    background-color:black;
+    border-radius: 15px;
+    border: 1px solid darkslategrey;
+   
   }
-  .nav-items:hover {
+  .nav-item:hover {
     color :deeppink;
   }

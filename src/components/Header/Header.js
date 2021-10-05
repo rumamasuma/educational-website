@@ -6,21 +6,20 @@ const Header = () => {
     return (
         <div className ="row">
             <div className= " header">
-              <div className="col-md-2"></div>
-            <div className="col-md-10">
-            <div className="menu-container ">
-              <ul className="d-flex align-items-center justify-content-center p-4">
+            <div className=" ">
+            <div className="nav-container col-md-12  bg-clr">
+              <ul className="d-flex align-items-center justify-content-center ">
 
-                <Link to="/home" className="nav-items">
+                <Link to="/home" className="nav-item  ">
                   <li>Home</li>
                 </Link>
-                <Link to="/about" className="nav-items">
+                <Link to="/about" className="nav-item">
                   <li>About us</li>
                 </Link>
-                <Link to="services" className="nav-items">
+                <Link to="services" className="nav-item">
                   <li>Services</li>
                 </Link>
-                <Link to="/apply" className="nav-items">
+                <Link to="/apply" className="nav-item">
                   <li>Apply</li>
                 </Link>
               </ul>
@@ -28,46 +27,7 @@ const Header = () => {
           </div>
      </div>           
  </div>
+    
     );
 };
-
 export default Header;
-/* <div  className ="nav-bar">
-     <NavLink
-  to="/home"
-  activeStyle={{
-    fontWeight: "bold",
-    color: "red"
-  }}
-  >
-    Home
-  </NavLink>
-   <NavLink
-  to="/about"
-  activeStyle={{
-    fontWeight: "bold",
-    color: "red"
-  }}
->
-   About us 
-  </NavLink>
-  <NavLink
-  to="/university"
-  activeStyle={{
-    fontWeight: "bold",
-    color: "red"
-  }}
->
-   University
-   </NavLink>
-  <NavLink
-  to="/services"
-  activeStyle={{
-    fontWeight: "bold",
-    color: "red"
-  }}
->
-   Services
-  </NavLink>
-    
-        </div> */
