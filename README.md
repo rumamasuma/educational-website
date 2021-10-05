@@ -1,5 +1,5 @@
 # Dream University of Science & Technology
-## my wesite link https://educational-react-route.netlify.app/
+## my website link https://educational-react-route.netlify.app/
 ## My project purpose  are
 - university website
 
